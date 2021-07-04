@@ -1,0 +1,6 @@
+# Example design file for meterdraw.py
+
+card-size  5 cm  4 cm
+center 50% 3.5 cm  span 90  arc 3 cm
+mark 3 cm  3.4 cm  0 65 100
+label 2.4 cm `0` `1` `2`
